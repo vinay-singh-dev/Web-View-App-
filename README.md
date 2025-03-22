@@ -22,7 +22,7 @@ The **WebView App** allows users to **convert any website into an Android app** 
 ## 🔧 Setup & Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/webview-app.git
+   git clone https://github.com/vinay-singh-dev/webview-app.git
    ```
 2. **Open in Android Studio**
 3. **Grant Necessary Permissions in `AndroidManifest.xml`**
